@@ -94,13 +94,13 @@ export const botConfig = {
       // Standard status colors for success/error/warning/info messages.
       success: "#808080", 
       error: "#808080", 
-      warning: "#950606", 
+      warning: "#808080", 
       info: "#808080", 
 
       // Neutral utility colors.
       light: "#FFFFFF",
       dark: "#202225",
-      gray: "#99AAB5",
+      gray: "#808080",
 
       // Discord-style palette shortcuts.
       blurple: "#5865F2",
