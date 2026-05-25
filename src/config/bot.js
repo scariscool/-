@@ -122,7 +122,7 @@ export const botConfig = {
         pending: "#99AAB5",
       },
       economy: "#F1C40F",
-      birthday: "#E91E63",
+      birthday: "#000000",
       moderation: "#9B59B6",
 
       // Ticket priority color mapping.
